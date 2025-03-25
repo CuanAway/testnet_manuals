@@ -4,3 +4,4 @@
 [2025-03-25 18:18:18] Memperbarui dokumentasi di testnet_manuals
 [2025-03-25 18:18:20] Menambahkan fitur kecil di testnet_manuals
 [2025-03-25 18:18:22] Menambahkan fitur kecil di testnet_manuals
+[2025-03-25 18:18:24] Memperbarui dokumentasi di testnet_manuals
